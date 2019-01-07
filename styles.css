@@ -1,7 +1,0 @@
-fieldset {
-    display: flex;
-    flex-direction: column;
-}
-#journalEntry {
-    height: 40px;
-}
